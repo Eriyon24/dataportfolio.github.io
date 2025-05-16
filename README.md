@@ -1,6 +1,7 @@
-# Data Scientist
+# Hi, I'm Eriyon 👋
+Data Analyst | Excel | Python | SQL | Tableau
 
-### Education
+- 🎓 MS in Data Science & Business Analytics
+- 📊 Interested in storytelling through data
+- 💼 Check out my projects below!
 
-
-### Work Experinence
