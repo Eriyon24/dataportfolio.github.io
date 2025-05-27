@@ -48,6 +48,20 @@ This project was created for *Caught Up*, a Detroit-based nonprofit supporting y
 
 ---
 
+
+
+### 📘 Student Database SQL Project
+https://github.com/Eriyon24/-Student-Database-SQL-Project
+This project simulates a university's student information system using MySQL. It includes relational tables for students, courses, departments, professors, enrollments, classrooms, and course schedules. I wrote SQL queries to analyze student performance, course enrollment patterns, faculty teaching loads, and room utilization. This project demonstrates my understanding of database design, foreign key relationships, and practical query building using joins, groupings, and filtering.
+
+
+
+
+
+
+
+
+
 ## 📌 More Projects Coming Soon
 I'm currently working on more projects involving Excel dashboards, SQL reporting, and customer segmentation. Stay tuned!
 
