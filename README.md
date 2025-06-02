@@ -57,6 +57,12 @@ This project simulates a university's student information system using MySQL. It
 
 
 
+ ### Retail Store Sales SQL Project
+[🔗 View Project Repository](https://github.com/Eriyon24/-Retail-Store-Sales-SQL-Project)
+This SQL project simulates a retail store sales database. It showcases table creation, realistic transaction data, and business-style SQL queries for analyzing product performance, customer behavior, and sales trends.
+
+
+
 
 
 
