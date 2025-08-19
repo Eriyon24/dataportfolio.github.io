@@ -63,7 +63,12 @@ This SQL project simulates a retail store sales database. It showcases table cre
 
 
 
+## 🧠 Featured Projects
 
+### 🚔 Detroit Police Department Patrol Resource Management  
+- 📍 [View Project Folder](https://github.com/Eriyon24/dpd-patrol-resource-management)
+- 📊 Tableau Dashboards analyzing scout car availability and response delays.
+- 📈 Focused on out-of-service trends, vehicle efficiency, and precinct comparisons.
 
 
 
