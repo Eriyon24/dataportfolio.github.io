@@ -71,6 +71,20 @@ This SQL project simulates a retail store sales database. It showcases table cre
 - 📈 Focused on out-of-service trends, vehicle efficiency, and precinct comparisons.
 
 
+### 📊 Statistical Analysis Projects
+
+This collection highlights exploratory data analysis and statistical modeling using Python and Jupyter Notebooks. Each project applies real-world data to uncover insights through summary statistics, visualizations, and regression analysis.
+
+📁 [View Statistical Projects Repository](https://github.com/Eriyon24/statistical-projects-README.md)
+
+Included Projects:
+
+Fitlife Customer Segmentation – Clustered fitness app users based on demographics and activity patterns.
+
+MovieLens Movie Ratings – Analyzed genre trends, average ratings, and decade-based film output.
+
+Website Traffic Analytics – Explored user behavior, session durations, and bounce rates from a mock web dataset.
+
 
 
 
