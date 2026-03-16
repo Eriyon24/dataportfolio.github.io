@@ -88,6 +88,58 @@ Website Traffic Analytics – Explored user behavior, session durations, and bou
 
 
 
+🥊 UFC Performance Analysis Project
+[View Statistical Projects Repository](https://github.com/Eriyon24/UFC-Performance-Analysis-Project)
+
+This project explores how fighter activity and damage taken influence performance in UFC fights. Using Python (Pandas) for data cleaning and feature engineering and Power BI for visualization, the analysis examines the relationship between rest periods between fights, significant strikes absorbed, and fight outcomes.
+
+The goal of this project is to demonstrate practical data analysis, data transformation, and dashboard visualization skills using real-world sports data.
+
+Key components of the project include:
+
+⏱ Calculating time between fights (rest periods)
+
+💥 Measuring damage taken using significant strikes absorbed
+
+📊 Analyzing win rates across different rest periods
+
+📈 Creating a Power BI dashboard to visualize fighter performance trends
+
+This project highlights core data analyst skills including data cleaning, exploratory data analysis, and communicating insights through visualizations.
+
+🔧 Tools Used
+
+Python
+
+Pandas
+
+Google Colab
+
+Power BI
+
+GitHub
+
+📊 Key Insight
+
+Initial analysis suggests that fighters who compete more frequently may have slightly higher win rates, while fighters who absorb more damage tend to have lower performance outcomes.
+
+If you want, I can also help you add three things that make GitHub projects look much more professional to recruiters:
+
+a project architecture section
+
+screenshots of your Power BI dashboard
+
+a clean folder structure section
+
+Those small things can make your repo look much more polished.
+
+
+
+
+
+
+
+
 ## 📌 More Projects Coming Soon
 I'm currently working on more projects involving Excel dashboards, SQL reporting, and customer segmentation. Stay tuned!
 
