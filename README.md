@@ -89,7 +89,7 @@ Website Traffic Analytics – Explored user behavior, session durations, and bou
 
 
 🥊 UFC Performance Analysis Project
-[View Statistical Projects Repository](https://github.com/Eriyon24/UFC-Performance-Analysis-Project)
+[View UFC Performance Analysis Project Repository](https://github.com/Eriyon24/UFC-Performance-Analysis-Project)
 
 This project explores how fighter activity and damage taken influence performance in UFC fights. Using Python (Pandas) for data cleaning and feature engineering and Power BI for visualization, the analysis examines the relationship between rest periods between fights, significant strikes absorbed, and fight outcomes.
 
